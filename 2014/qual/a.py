@@ -3,7 +3,7 @@
 """
 Google Code Jam
 Qualification Round 2014
-Problem A. Minesweeper Master
+Problem A. Magic Trick
 """
 
 class TestCase:
