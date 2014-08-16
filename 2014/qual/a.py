@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+Google Code Jam
+Qualification Round 2014
+Problem A. Minesweeper Master
+"""
+
 class TestCase:
     def __init__(self, first_answer, second_answer, first_grid, second_grid):
         self.first_answer = first_answer
